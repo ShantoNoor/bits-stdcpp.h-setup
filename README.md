@@ -20,6 +20,9 @@ MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\
 ```
 /Library/Developer/CommandLineTools/usr/include/c++/v1
 ```
+```
+/usr/local/include/bits
+```
 
 ### stdc++.h source file: [view code](https://gist.githubusercontent.com/reza-ryte-club/97c39f35dab0c45a5d924dd9e50c445f/raw/47ecad34033f986b0972cdbf4636e22f838a1313/stdc++.h)
 
